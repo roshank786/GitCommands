@@ -27,3 +27,5 @@ git remote add name "path"                  [to add remote repo to local]
 git branch                                  [to know the branch]
 
 git remote -v                               [to take the name]
+
+git push remote_name branch
