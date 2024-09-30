@@ -1,0 +1,9 @@
+
+
+git config --global user.name "Username"    [for registering user name]
+git config --global user.email "email"    [for registering user mail]
+
+
+git config --list
+
+
