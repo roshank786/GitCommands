@@ -1,9 +1,20 @@
 
 
 git config --global user.name "Username"    [for registering user name]
-git config --global user.email "email"    [for registering user mail]
+git config --global user.email "email"      [for registering user mail]
 
 
-git config --list
+git config --list                           [for listing registered user]
+
+==========================================================================
+
+git init                                    [for initialising git in repo]
 
 
+git status                                  [for listing untracked files]
+
+
+git add -A                                  [to add all untracked files to stage A]
+
+
+git commit -m "message"                     [to move any staged files to local repo]
